@@ -1,0 +1,2 @@
+# wordy
+Custom wordlist generator
