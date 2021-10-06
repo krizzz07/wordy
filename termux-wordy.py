@@ -5,7 +5,7 @@ os.system("echo Author:Thejas_krizzz | pv -qL 10")
 a=input("What is your name: ")
 os.system("sleep 3")
 print("")
-echo("")
+
 os.system("sleep 1")
 os.system("clear")
 print(a +  " Good name ")
